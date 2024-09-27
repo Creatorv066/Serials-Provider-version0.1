@@ -48,6 +48,8 @@ Also remember that developer will Delete Adult Contents from Database. So better
   HOME_TEXT = """
 Hello, [{}](tg://user?id={})\n\nThis is a Permanent **FileStore Bot**.
 
+How to Use Bot & it's Benefits??
+
 📢 Send me any File I will give you a permanent Sharable Link. I Support Channel Also! Check About Bot Button.
 
 ⚠️ If Do You Want Any Marathi Serial Channel Link MSG Me @iTS_ViSHWA14
