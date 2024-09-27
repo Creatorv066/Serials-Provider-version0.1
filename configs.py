@@ -36,8 +36,8 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📢 **Updates Channel:** [Marathi Serials](https://t.me/Marathi_Tv_Serialsx)
 """
-	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @iTS_ViSHWA14
+ABOUT_DEV_TEXT = f"""
+🧑🏻‍💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [VISHWA](https://t.me/iTS_ViSHWA14)
 
 Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
 
