@@ -42,9 +42,10 @@ Developer is Super Noob. Just Learning from Official Docs. Please Donate the dev
 Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
 
 [Donate Now](https://www.paypal.me/) (PayPal)
-  HOME_TEXT = """
-  Hi, [{}](tg://user?id={})\n\nThis is a Permanent FileStore Bot.
+	HOME_TEXT = """
+Hi, 👋 [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot** 🗃️.
 
-    📢 Send me any File I will give you a permanent Sharable Link. I Support Channel Also! Check About Bot Button.
+Send me any file I will give you a permanent Sharable Link 🔗. I Support Channel Also! Check **About Bot 🤖** Button.
 
-    ⚠️ If Do You Want Any Marathi Serial Channel Link MSG Me @iTS_ViSHWA14
+**If Do You Want Any 'Marathi Serial Channel Link' MSG Me Here - @iTS_ViSHWA14**
+"""
