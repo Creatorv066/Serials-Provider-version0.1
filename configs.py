@@ -43,7 +43,6 @@ Also remember that developer will Delete Adult Contents from Database. So better
 
 [Donate Now](https://www.paypal.me/) (PayPal)
   HOME_TEXT = """
-
   Hello, [{}](tg://user?id={})\n\nThis is a Permanent FileStore Bot.
 
 This is Permanent File Store Bot 🗃️.
