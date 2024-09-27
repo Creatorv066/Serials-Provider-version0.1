@@ -5,7 +5,7 @@ class Config(object):
   API_HASH = os.environ.get("API_HASH", "a12613f54c74d00bfb76cf8f0688c2ee")
   BOT_TOKEN = os.environ.get("BOT_TOKEN", "6923368496:AAFhmdZNztJWF-0PLwW3dBtl4tvAZUxm_70")
   BOT_USERNAME = os.environ.get("BOT_USERNAME", "Marathi_Serials_Provider_Bot")
-  DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "--1002056408106"))
+  DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002056408106"))
   BOT_OWNER = int(os.environ.get("BOT_OWNER", "1562792211"))
   DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://Drxfile:Drxfile@drxfile.teugktb.mongodb.net/?retryWrites=true&w=majority")
   UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1002091923966")
