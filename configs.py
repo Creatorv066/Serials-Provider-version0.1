@@ -42,8 +42,7 @@ Developer is Super Noob. Just Learning from Official Docs. Please Donate the dev
 Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
 
 
-[Donate Now](vishwamore@fam) (UPI)
-"""
+[Donate Now](vishwamore@fam) (UPI)"""
 	HOME_TEXT = """
 Hi, 👋 [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot** 🗃️.
 
