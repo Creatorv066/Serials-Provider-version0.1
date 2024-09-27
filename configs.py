@@ -2,14 +2,14 @@ import os
 
 
 class Config(object):
-	API_ID = int(os.environ.get("API_ID", "22787559"))
-	API_HASH = int(os.environ.get("API_HASH", "e771139d8f3d4ae57f663ad049bbb710")
-	BOT_TOKEN = int(os.environ.get("BOT_TOKEN", "6923368496:AAFhmdZNztJWF-0PLwW3dBtl4tvAZUxm_70"))
-	BOT_USERNAME = int(os.environ.get("BOT_USERNAME", "Marathi_Serials_Provider_Bot"))
+	API_ID = int(os.environ.get("API_ID", "27344784"))
+	API_HASH = os.environ.get("API_HASH", "a12613f54c74d00bfb76cf8f0688c2ee")
+	BOT_TOKEN = os.environ.get("BOT_TOKEN", "6923368496:AAFhmdZNztJWF-0PLwW3dBtl4tvAZUxm_70"))
+	BOT_USERNAME = os.environ.get("BOT_USERNAME", "Marathi_Serials_Provider_Bot"))
 	DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002056408106"))
 	BOT_OWNER = int(os.environ.get("BOT_OWNER", "6899191648"))
-	DATABASE_URL = int(os.environ.get("DATABASE_URL", "mongodb+srv://Drxfile:Drxfile@drxfile.teugktb.mongodb.net/?retryWrites=true&w=majority"))
-	UPDATES_CHANNEL = int(os.environ.get("UPDATES_CHANNEL", "-1002091923966"))
+	DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://Drxfile:Drxfile@drxfile.teugktb.mongodb.net/?retryWrites=true&w=majority"))
+	UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1002091923966"))
 	LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002048118352"))
 	BANNED_USERS = set(int(x) for x in os.environ.get("BANNED_USERS", "1234567890").split())
 	FORWARD_AS_COPY = bool(os.environ.get("FORWARD_AS_COPY", True))
